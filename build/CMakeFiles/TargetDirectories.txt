@@ -1,0 +1,3 @@
+/home/heeseok/openCV_tutorial/opencv_prac/build/CMakeFiles/edit_cache.dir
+/home/heeseok/openCV_tutorial/opencv_prac/build/CMakeFiles/rebuild_cache.dir
+/home/heeseok/openCV_tutorial/opencv_prac/build/CMakeFiles/opencv_prac.dir
